@@ -1,7 +1,7 @@
 
 ## ⚖ 판가름 소개
 
-![Introduce](https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22A509/uploads/a3118c6aceca2320edef6b09181f9e06/1.png)
+![introduce](https://github.com/mj0107/pangarm/assets/61671704/39e10a12-5172-4813-8865-05ac4b8cb2f9)
 
 <br>
 
@@ -84,12 +84,12 @@
 
 
 ## 💎 서비스 아키텍처
-![Alt text](https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22A509/uploads/0cb752c24e7ec5a82fa1693072017b2f/image__1_.png "erd")
+![architecture](https://github.com/mj0107/pangarm/assets/61671704/3947728b-ea9e-4e74-ab11-847d4a33a909)
 
 <br>
 
 ## 🔧 ERD
-![ERD](https://lab.ssafy.com/s10-bigdata-dist-sub2/S10P22A509/uploads/6d3f25f662f2b8d973e64b233db707f9/pangarm-diagram.png)
+![erd](https://github.com/mj0107/pangarm/assets/61671704/a9d731a1-1f0a-4de1-bb0a-2e1e17957edd)
 
 <br>
 
@@ -468,15 +468,10 @@ Back-end
  ┃ ┗ 📜BackendApplication.java
  ```
 
-## 🏁 실행 방법
-[실행 방법 링크]()
-<br>
-
 ## 🌐 산출물
 
 [컨벤션](https://almondine-change-00b.notion.site/333c75f3e7524a76bea32f0064c6d9d5?pvs=4) <br>
 [요구사항 정의서](https://almondine-change-00b.notion.site/ee6824030d574629807d39712b0ad3d0?pvs=4) <br>
 [기능 명세서](https://almondine-change-00b.notion.site/77a2d2cc205c4de594c24e983d998184?v=899e3f6ebce44fe4a0a0783b517ab2d9&pvs=4) <br> 
-[화면 정의서](https://github.com/) <br>
-[화면 흐름도](https://www.figma.com/community/file/1357249270102337530) <br>
+[화면 정의서 및 흐름도](https://www.figma.com/community/file/1357249270102337530) <br>
 [팀 노션](https://almondine-change-00b.notion.site/PANGARM-SSAFY-10-43dfc4b83fc14b1a9cb4ed7fc811f5bb?pvs=4)
